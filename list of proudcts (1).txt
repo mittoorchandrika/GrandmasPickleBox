@@ -1,0 +1,105 @@
+insert into products(id,brand,category,count_in_stock,description,
+image,name,num_reviews,price,rating) values
+(1,	
+'Allen Solly'
+'Shirts'	
+10	
+'Stay effortlessly stylish with the Allen Solly Slim Shirt – a perfect blend of comfort, fit, and timeless fashion'
+'/images/shirt1.jpg'	
+'Allen Solly Slim shirt'	
+10	
+120	
+4.5),
+
+(2,
+'USPA'
+'Shirts'	
+0	
+'Elevate your style with the USPA Fit Shirt—combining comfort and sophistication for a casually refined look. Dress sharp effortlessly!'	
+'/images/shirt2.jpg'	
+'USPA Fit Shirt'	
+10	
+250
+4.0),
+
+(3,
+'Mufti',
+'Pants',
+15,
+'Elevate your style effortlessly with these sleek, tailored trousers. Comfort meets trend in every stitch.',
+'/images/pant3.jpg',
+'Bennetton Denim Pant',
+10,
+65,
+4.5),
+
+(4,
+'Bennetton',
+'Pants',
+7,
+'Feel the ultimate comfort and style in Bennetton Denim Pants – your go-to choice for casual chic vibes!',
+'/images/pant3.jpg',
+'Bennetton Denim Pant',
+30,
+45,
+4.5)
+
+(5,
+'ASUS',
+'Mobile',
+5,
+'Sleek design, powerful performance. Capture lifes moments with precision. Your everyday companion for seamless connectivity and style.',
+'/images/mobile1.jpg',
+'ASUS Zen Mobile',
+20,
+65,
+4.5),
+
+(6,
+'Apple',
+'Mobile',
+5,
+'Meet the Apple XR iPhone – sleek design, stunning display, and powerful performance in one pocket-sized marvel. Elevate your experience!',
+'/images/iphone1.jpg',
+'Apple XR Iphone',
+10,
+75,
+4.5),
+
+(7,
+'Apple',
+'Mobile',
+5,
+'Meet the Apple 7s iPhone – sleek design, stunning camera, and powerful performance for a seamless, tech-savvy lifestyle.',
+'/images/iphone2.jpg',
+'Apple 7s Iphone',
+30,
+85,
+4.5),
+
+(8,
+'Apple',
+'Laptop',
+5,
+'Meet the sleek and powerful Apple MacBook – your creative companion with stunning design and lightning-fast performance. Elevate your experience!',
+'/images/img3.jpg',
+'Apple mac Book',
+10,
+65,
+4.5),
+
+(9,
+'Dell',
+'Laptop',
+6,
+'Sleek design, blazing speed, and vibrant display for work or play. Elevate your tech game effortlessly!',
+'/images/img4.jpg',
+'Dell Laptop',
+50,
+80,
+4.5);
+
+
+
+
+
